@@ -1,0 +1,71 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Hola soy Ivan Castro desarrollador fullstack desde hace 4 años, he trabajado con proyectos en los frameworks angulares de Laravel y estoy aprendiendo react.js he estado trabajando desarrollando chatbots por la herramienta IBM watson Assistant",
+      "section_name": {
+        "about": "Acerca de mi",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "Megalabs.app",
+        "startDate": "2019",
+        "description": "he trabajado en esta aplicacion todo el tiempo yha conllevaod una evolucion constante desde una paghina simple en php a una migracion a una pagina web y una aplicacion movil llevando procesos internos de la compañia a los largo de los ultimos 4 años.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "Php"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - obecnie",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Stażystka",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

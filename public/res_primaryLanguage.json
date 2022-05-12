@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hi, I'm Ivan Castro, a fullstack developer for 4 years, I've worked with projects in Laravel's angular frameworks and I'm learning react.js. I've been working on developing chatbots using the IBM Watson Assistant tool.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Megalabs.app",
+        "startDate": "2019",
+        "description": "I have worked on this application all the time and it has involved a constant evolution from a simple page in php to a migration to a web page and a mobile application carrying internal processes of the company over the last 4 years.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "Php"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Megalabs Colombia",
+        "title": "Mid Fullstack Developer",
+        "years": "01.2021 - present",
+        "mainTech": [
+          "Laravel 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "Laravel",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Mysql",
+          "IBM Watson Asitstant",
+          "Angular Material",
+          "Jira"
+        ]
+      },
+      {
+        "company": "Redes Humanas SA",
+        "title": "Axuliliar de organizacion y Metodos",
+        "years": "05.2019 - 01.2021",
+        "mainTech": [
+          "Laravel 6/7"
+        ],
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Html",
+          "Css",
+          "Laravel"
+        ]
+      }
+    ]
+  }
